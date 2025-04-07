@@ -20,7 +20,7 @@ GrpcDiscountSolution/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/grpc-discount-system.git
+git clone git@github.com:rarbnor/grpc-discount-system.git
 cd grpc-discount-system
 ```
 
